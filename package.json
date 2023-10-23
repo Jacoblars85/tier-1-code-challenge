@@ -1,0 +1,25 @@
+{
+  "name": "prime-t1-assessment",
+  "version": "1.0.0",
+  "description": "Prime Tier 1 Code Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter test/reporter.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Prime Digital Academy",
+  "license": "ISC"
+}
