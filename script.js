@@ -51,7 +51,7 @@ function calculateScore(tiles) {
 for (let i = 0; i < tiles.length; i++) {
   
   newTotal += tiles[i].score;
-  console.log('my new total is', newTotal);
+  
 }
 return newTotal;
 }
